@@ -1,0 +1,17 @@
+<usuarios>
+  <usuario>
+    <nombre>Juan</nombre>
+    <edad>25</edad>
+    <email>juan@outlook.com</email>
+  </usuario>
+  <usuario>
+    <nombre>María</nombre>
+    <edad>30</edad>
+    <email>maria@hotmail.com</email>
+  </usuario>
+  <usuario>
+    <nombre>Samuel</nombre>
+    <edad>24</edad>
+    <email>samu0850@gmail.com</email>
+  </usuario>
+</usuarios>
